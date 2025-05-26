@@ -38,14 +38,14 @@ The dataset contains information about a direct marketing campaign of a Portugue
 
 ---
 
-# 📈 Results
+#  Results
 
 -  **Training Accuracy**: 0.8975  
 -  **Testing Accuracy**:  0.8984
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 The Decision Tree Classifier provided interpretable and accurate predictions on customer subscription behavior. The model highlights the most influential factors and serves as a valuable tool for marketing targeting. Further improvement could involve ensemble models like Random Forest or XGBoost.
 
